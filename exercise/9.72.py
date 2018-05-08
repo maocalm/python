@@ -1,6 +1,6 @@
 
 
-#  试图迭代一个数的错误；
+#  试图迭代一个数的错误； 一边循环一边计算；
 def flatten (nested):
     try:
         for sublist in nested:
