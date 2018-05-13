@@ -17,5 +17,3 @@ def download (url , user_agent ='wswp' , num_retries=2):
                 return  download( url , user_agent , num_retries-1)
 
     return html
-
-Download = download

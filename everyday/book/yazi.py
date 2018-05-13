@@ -1,4 +1,4 @@
-from abc import ABC ,abstractclassmethod
+from common import ABC ,abstractclassmethod
 
 
 class Talker (ABC):
