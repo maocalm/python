@@ -72,7 +72,7 @@ def down_pic(pic_urls ,name ):
 def start( index  ,name ) :
 
     keyword = index # 关键词, 改为你想输入的词即可, 相当于在百度图片里搜索一样
-    page_begin = 21  #0-3 /  4-10   / 11 -20  / 21-60
+    page_begin = 21 
     page_number = 40
     image_number = 100
     all_pic_urls = []
